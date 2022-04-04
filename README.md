@@ -1,5 +1,11 @@
 # HeapZip blockchain in Rust
-### author : Dr. Mo Ashouri, ashourics@gmail.com / https://ashoury.net
+### Author : Dr. Mo Ashouri, ashourics@gmail.com 
+### Contact: ashourics@protonmail.com
+### Web: https://ashoury.net
+### Twitter: https://twitter.com/ashourics
+### YouTube: https://www.youtube.com/channel/UCp2VCfFn13kXwJd1HFBCa7Q
+
+
  A tutorial about how to build a blockchain in Rust
 
 Start using
